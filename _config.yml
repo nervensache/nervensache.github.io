@@ -7,6 +7,6 @@ description: >-
     fördern und unterstützen wollen.
 
 baseurl: ""
-url: "http://nervensache.org"
+url: "https://www.nervensache.org"
 
 markdown: kramdown
