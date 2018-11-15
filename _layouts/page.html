@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="description" content="{{ site.description }}">
+        <title>{{ site.title }} - {{ page.title }}</title>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css"
+            integrity="sha256-oSrCnRYXvHG31SBifqP2PM1uje7SJUyX0nTwO2RJV54=" crossorigin="anonymous">
+        <link rel="stylesheet" href="{{ "/css/fonts/colaborate-light/stylesheet.css" | relative_url }}">
+        <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
+        <link rel="canonical" href="{{ page.url | absolute_url }}">
+    </head>
+
+    <body>
+        <div id="wrapper">
+            <header>
+                <div id="header-logo">
+                    <a href="{{ "/" | relative_url }}" id="logo">
+                        <img src="{{ "/img/nervensache-logo.png" | relative_url }}"
+                            alt="Nervensache | Hilfe für querschnittgelähmte Menschen e.V.">
+                    </a>
+                    <div id="hamburger">
+                        <span class="hamburger-icon"></span>
+                    </div>
+                </div>
+                <nav>
+                    <ul>
+                        {% assign pgs = site.pages | sort: "order" %}
+                        {% for pg in pgs %} {% if pg.title and pg.order %}
+                            <li {% if pg.title == page.title %} class="active" {% endif %}>
+                                <a href="{{ pg.url | relative_url }}">{{ pg.title }}</a>
+                            </li>
+                        {% endif %}{% endfor %}
+                    </ul>
+                </nav>
+                <div id="header-image">
+                    <img src="{{ "img/header-image.png" | relative_url }}" alt="">
+                </div>
+            </header>
+
+            <article>
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </article>
+
+            {% include footer.html %}
+        </div>
+
+        <script>
+            document.getElementById("hamburger").addEventListener("click",toggleMenu);
+
+            function toggleMenu() {
+                var classes = document.body.classList;
+                var hamClass = "hamburger-active";
+                if (classes.contains("hamburger-active")) {
+                    classes.remove(hamClass);
+                } else {
+                    classes.add(hamClass);
+                }
+            }
+        </script>
+    </body>
+</html>

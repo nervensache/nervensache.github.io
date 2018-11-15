@@ -1,0 +1,12 @@
+title: Nervensache e.V.
+email: info@nervensache.org
+description: >-
+    Der Verein Nervensache | Hilfe für querschnittgelähmte Menschen ist ein Zusammenschluss
+    von Bürgern in Frankfurt am Main, die die gesellschaftliche und berufliche Teilhabe
+    von Menschen mit schwerer Behinderung, insbesondere solche mit Querschnittlähmung
+    fördern und unterstützen wollen.
+
+baseurl: ""
+url: "http://nervensache.org"
+
+markdown: kramdown
