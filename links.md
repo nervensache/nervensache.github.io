@@ -17,6 +17,8 @@ Gangroboter und Exoskelett verbessern die Lebensqualität von Querschnittsgeläh
 
 <https://rewalk.com/de/hilfe-fur-gelahmte-das-exoskelett/>
 
+<https://www.faz.net/aktuell/rhein-main/student-lernt-wieder-laufen-nach-schwerem-unfall-16201648.html>
+
 Beispiel für Fahrzeugumbauten, damit Rollstuhlfahrer vorne bzw. als Beifahrer sitzen, selber fahren oder mitfahren können:
 
 <https://www.paravan.de/index.php?id=320&L=1>
