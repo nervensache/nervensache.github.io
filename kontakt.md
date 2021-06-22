@@ -9,7 +9,7 @@ Nervensache | Hilfe für querschnittgelähmte Menschen e.V.<br>
 Heinrich-Hoffmann-Str. 3<br>
 60528 Frankfurt
 
-Telefon +49 69 25717757<br>
+Telefon +49 1517 4332333<br>
 [info@nervensache.org](mailto:info@nervensache.org)<br>
 www.nervensache.org
 
