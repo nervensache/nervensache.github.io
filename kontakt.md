@@ -21,7 +21,7 @@ __Vorstand__:<br>
  * Stellvertretender Vorsitzender: Wolfgang Kast
  * Schatzmeisterin: Gabriele Heimel
 
-Der Verein Nervensache \| Hilfe für querschnittgelähmte Menschen ist durch den aktualisierten Bescheid des Finanzamts Frankfurt/M. vom 07.03.2019, Steuernummer 47 250 01091, als steuerbegünstigt anerkannt ([Freistellungbescheid als PDF](/Freistellungsbescheid_Nervensache.pdf)).
+Der Verein Nervensache \| Hilfe für querschnittgelähmte Menschen ist durch den aktualisierten Bescheid des Finanzamts Frankfurt/M. vom 04.08.2021, Steuernummer 47 250 01091, als steuerbegünstigt anerkannt ([Freistellungbescheid als PDF](/Freistellungsbescheid_Nervensache.pdf)).
 
 Der Verein Nervensache | Hilfe für querschnittgelähmte Menschen
 ist berechtigt für Spenden, die ihm zur Verwendung seiner Zwecke zugewendet werden, Zuwendungsbestätigungen auszustellen.
