@@ -29,3 +29,15 @@ inklusive Umbauten, belaufen sich auf ca. 60.000€.
 Bisher hat der Verein Nervensache | Hilfe für querschnittgelähmte Menschen e.V.
 vorrangig Therapiestunden mit dem Gangroboter bezahlt und individuell angepasste
 Rollstühle bezuschusst, deren Kosten nicht oder nur anteilig übernommen wurden.
+
+<video width="320" controls>
+  <source src="/img/innowalk.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+Dank Ihrer Unterstützung und Spenden konnte unser Verein Nervensache e.V. ein Therapiegerät,
+den Innowalk, anschaffen. Die letzte Rate für den Innowalk ist überwiesen. Das
+Therapiegerät hat insgesamt 27.000,00 € gekostet. Wir vom Verein und Vincent bedanken uns
+herzlich. Vincent ist glücklich mit dem Therapiegerät.
+Für Vincent ist es eine Möglichkeit, seinen Körper in Bewegung zu halten und eine
+Erleichterung, den Innowalk flexibel in seinen Tagesablauf einzusetzen.
