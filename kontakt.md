@@ -19,9 +19,9 @@ DE66 5005 0201 0200 6547 05 bei der Frankfurter Sparkasse__
 __Vorstand__:<br>
  * 1\. Vorsitzender: Winfried Herr
  * Stellvertretender Vorsitzender: Wolfgang Kast
- * Schatzmeisterin: Gabriele Heimel
+ * Schatzmeisterin: Detlef Köhler
 
-Der Verein Nervensache \| Hilfe für querschnittgelähmte Menschen ist durch den aktualisierten Bescheid des Finanzamts Frankfurt/M. vom 04.08.2021, Steuernummer 47 250 01091, als steuerbegünstigt anerkannt ([Freistellungbescheid als PDF](/Freistellungsbescheid_Nervensache.pdf)).
+Der Verein Nervensache \| Hilfe für querschnittgelähmte Menschen ist durch den aktualisierten Bescheid des Finanzamts Frankfurt/M. vom 15.04.2025, Steuernummer 14 250 00418, als steuerbegünstigt anerkannt ([Freistellungbescheid als PDF](/Freistellungsbescheid_Nervensache.pdf)).
 
 Der Verein Nervensache | Hilfe für querschnittgelähmte Menschen
 ist berechtigt für Spenden, die ihm zur Verwendung seiner Zwecke zugewendet werden, Zuwendungsbestätigungen auszustellen.
