@@ -18,8 +18,8 @@ DE66 5005 0201 0200 6547 05 bei der Frankfurter Sparkasse__
 
 __Vorstand__:<br>
  * 1\. Vorsitzender: Winfried Herr
- * Stellvertretender Vorsitzender: Wolfgang Kast
- * Schatzmeisterin: Detlef Köhler
+ * Stellvertretender Vorsitzender, Schatzmeister: Wolfgang Kast
+ * Dritter Vorstand: Detlef Köhler
 
 Der Verein Nervensache \| Hilfe für querschnittgelähmte Menschen ist durch den aktualisierten Bescheid des Finanzamts Frankfurt/M. vom 15.04.2025, Steuernummer 14 250 00418, als steuerbegünstigt anerkannt ([Freistellungbescheid als PDF](/Freistellungsbescheid_Nervensache.pdf)).
 
